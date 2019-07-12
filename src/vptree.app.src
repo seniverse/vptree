@@ -1,0 +1,11 @@
+{application, vptree,
+ [
+  {description, "vantage point tree"},
+  {vsn, "git"},
+  {registered, []},
+  {applications, []},
+  {env, []},
+  {licenses, ["Apache"]},
+  {links,[{"GitHub","https://github.com/seniverse/vptree"}]}
+ ]
+}.
